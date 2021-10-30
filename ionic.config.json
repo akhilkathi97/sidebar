@@ -1,0 +1,8 @@
+{
+  "name": "sidebar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "f9b60765"
+}
